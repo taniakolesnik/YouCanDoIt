@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleTodoList</string>
+    <string name="add_new_task_edit_text_hint">new task name</string>
+    <string name="add_new_task_button_text">ADD</string>
+</resources>
